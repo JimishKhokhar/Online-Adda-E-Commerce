@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Online-Adda-E-Commerce/static/css/main.81bbee2c.css",
-    "main.js": "/Online-Adda-E-Commerce/static/js/main.5ade9369.js",
+    "main.js": "/Online-Adda-E-Commerce/static/js/main.018ce349.js",
     "static/js/787.568bf333.chunk.js": "/Online-Adda-E-Commerce/static/js/787.568bf333.chunk.js",
     "static/media/online-adda-logo.png": "/Online-Adda-E-Commerce/static/media/online-adda-logo.a58645e5e0488e65136a.png",
     "static/media/cart-icon-28356.png": "/Online-Adda-E-Commerce/static/media/cart-icon-28356.0edb59010b1db3cbc904.png",
@@ -13,11 +13,11 @@
     "static/media/linkedin-icon-2-logo-svgrepo-com.svg": "/Online-Adda-E-Commerce/static/media/linkedin-icon-2-logo-svgrepo-com.9d6c57806071247c3fcb086b59fa3daa.svg",
     "static/media/tailwind-svgrepo-com.svg": "/Online-Adda-E-Commerce/static/media/tailwind-svgrepo-com.973c73e85d4daa24b257ba20298716c4.svg",
     "main.81bbee2c.css.map": "/Online-Adda-E-Commerce/static/css/main.81bbee2c.css.map",
-    "main.5ade9369.js.map": "/Online-Adda-E-Commerce/static/js/main.5ade9369.js.map",
+    "main.018ce349.js.map": "/Online-Adda-E-Commerce/static/js/main.018ce349.js.map",
     "787.568bf333.chunk.js.map": "/Online-Adda-E-Commerce/static/js/787.568bf333.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81bbee2c.css",
-    "static/js/main.5ade9369.js"
+    "static/js/main.018ce349.js"
   ]
 }
