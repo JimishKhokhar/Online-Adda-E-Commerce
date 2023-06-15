@@ -11,4 +11,4 @@ These are some of the pics of the Website...
 # Tech Stack
 * React JS
 * Tailwind CSS
-
+* React Shimmer
